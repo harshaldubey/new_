@@ -1,5 +1,4 @@
 var id = '';
-
 function myFunction(id) {
     var value1="value1";
     var value2="value2";
